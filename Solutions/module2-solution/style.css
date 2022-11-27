@@ -15,7 +15,7 @@
     background-color: #4f4f4f;
     width: 90%;
     height: 150px;
-    margin-left: 30px;
+    margin-left: 5%;  
     padding: 15px 15px 15px 15px;
     font-family: 'Courier New', Courier, monospace;
     color: white;
@@ -29,7 +29,7 @@
     height: 30px;
     position: absolute;
     top: -11%;
-    right: 3.8%;
+    right: 5%;
     padding: 5px 10px 5px 20px;
     
   }
@@ -40,7 +40,7 @@
     height: 30px;
     position: absolute;
     top: -11%;
-    right: 3.9%;
+    right: 5%;
     padding: 5px 10px 5px 20px;
     
   }
@@ -51,7 +51,7 @@
     height: 30px;
     position: absolute;
     top: -11%;
-    right: 3.9%;
+    right: 5%;
     padding: 5px 10px 5px 20px;
     clear: left;
   }
@@ -81,17 +81,17 @@
     #title1 {
       position: absolute;
     top: 0;
-    right: 4%;
+    right: 5%;
     }
     #title2 {
       position: absolute;
     top: 0;
-    right: 4%;
+    right: 5%;
     }
     #title3 {
       position: absolute;
     top: 0;
-    right: 4%;
+    right: 5%;
     }
   }
   
@@ -100,7 +100,7 @@
     .col-md-1, .col-md-2, .col-md-3 {
       float: left;
       position: relative;
-     
+      
     }
     .col-md-1 {
       width: 8.33%;
@@ -114,20 +114,23 @@
     .col-md-4 {
       width: 105.5%;
       clear: left;
+      margin-left: -2.8%;
     }
     #title1 {
       position: absolute;
     top: 0;
-    right: 4%;
+    right: 5%;
     }
     #title2 {
       position: absolute;
     top: 0;
-    right: 4%;
+    right: 5%;
     }
     #title3 {
       position: absolute;
       top: -16px;
-      right: 7%;
+      right: 5%;
+      
     }
   }
+  
