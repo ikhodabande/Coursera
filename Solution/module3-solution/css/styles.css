@@ -1,0 +1,25 @@
+/* header */
+ul {
+    text-align: center;
+   
+}
+ul {
+    border: 5px;
+}
+#li1:hover , #li2:hover ,#li3:hover  {
+    border: 1px solid #000000;
+    background-color: #f0ebd6;
+}
+/* section */
+section {
+    margin: 5% 10px 10px 10px;
+}
+h6 {
+    padding-top: 5px;
+}
+#Chicken-tile , #Beef-tile , #Sushi-tile {
+    margin-bottom: 15px;
+    border: 10px solid #ffffff;
+    height: 1000px;
+  
+}
