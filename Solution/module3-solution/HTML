@@ -30,10 +30,8 @@
           </ul>
         </div>
       </div>
-    </nav>
-    
+    </nav> 
   <h4 class="text-center">Our Menu</h4>
-
   </header>
   <section>
     <div class="container-fluid">
@@ -53,8 +51,6 @@
       </div>
     </div>
   </section>
-
-
   <!-- jQuery (Bootstrap JS plugins depend on it) -->
   <script src="js/jquery-3.6.1.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
