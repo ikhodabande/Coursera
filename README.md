@@ -17,3 +17,4 @@
 - [Module 2 solution](https://ikhodabande.github.io/Coursera/Solution/module2-solution/module2-solution.html)
 - [Module 3 solution](https://ikhodabande.github.io/Coursera/Solution/module3-solution/index.html)
 - [Module 4 solution](https://ikhodabande.github.io/Coursera/Solution/module4-solution/index.html)
+- [Module 5 solution](https://ikhodabande.github.io/Coursera/Solution/module5-solution/index.html)
