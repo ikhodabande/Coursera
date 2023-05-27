@@ -23,4 +23,4 @@
 
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A6BF7&width=500&lines=React" alt="Typing SVG" /></a></h3>
 
--[Costumizing-example]
+-[Create React App](https://github.com/ikhodabande/Coursera/tree/main/React/a%20suitable%20folder#getting-started-with-create-react-app)
