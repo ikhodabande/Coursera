@@ -20,4 +20,3 @@
 - [Module 4 solution](https://ikhodabande.github.io/Coursera/Solution/module4-solution/index.html)
 - [Module 5 solution](https://ikhodabande.github.io/Coursera/Solution/module5-solution/index.html)
 
--[Wordpress-themes](https://ikhodabande.github.io/Coursera/wordpress/index.html)
